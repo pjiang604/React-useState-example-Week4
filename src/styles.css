@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tile {
+  width: 100vw;
+  min-height: 20em;
+  position: relative;
+}
+
+.tile button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
